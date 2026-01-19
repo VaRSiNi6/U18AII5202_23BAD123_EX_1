@@ -1,8 +1,10 @@
-**📊 Student Performance Analysis using R**
-
+📊 Student Performance Analysis using R
 👩‍🎓 Student Details
+
 Name: Varsini K
+
 Register No: 23BAD123
+
 Course: Artificial Intelligence & Data Science
 
 📌 Project Overview
@@ -13,26 +15,43 @@ It analyzes internal test marks, compares subject-wise performance, visualizes t
 🗂️ Dataset Information
 
 File name: 1.student_performance.csv
+
 Number of records: 50 students
+
 Number of attributes: 9
 
 📄 Attributes
+
 Student_ID
+
 Department
+
 Semester
+
 Subject
+
 Internal_Test1
+
 Internal_Test2
+
 Assignment_Marks
+
 Attendance_Percentage
+
 Final_Grade
 
 🛠️ Tools & Libraries Used
+
 R
+
 RStudio
+
 Libraries:
+
 ggplot2 – Data visualization
+
 dplyr – Data manipulation
+
 tidyr – Data reshaping
 
 ⚙️ Steps Performed
@@ -47,6 +66,7 @@ data <- read.csv("1.student_performance.csv")
 3️⃣ Data Exploration
 
 Structure of data using str()
+
 Summary statistics using summary()
 
 4️⃣ Average Internal Marks Calculation
