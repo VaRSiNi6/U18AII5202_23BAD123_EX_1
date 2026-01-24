@@ -1,5 +1,4 @@
-📊 Student Performance Analysis using R
-👩‍🎓 Student Details
+**IMPLEMENTATION OF DATA CHARTS**
 
 Name: Varsini K
 
